@@ -5,6 +5,8 @@ gem "devise"
 gem "importmap-rails"
 gem "jbuilder"
 gem "kamal", ">= 2.0.0.rc2", require: false
+gem "omniauth-google-oauth2"
+gem "omniauth-rails_csrf_protection"
 gem "propshaft"
 gem "puma", ">= 5.0"
 gem "rails", "~> 8.0.0.beta1"
