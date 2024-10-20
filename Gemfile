@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
 gem "bootsnap", require: false
+gem "devise"
 gem "importmap-rails"
 gem "jbuilder"
 gem "kamal", ">= 2.0.0.rc2", require: false
